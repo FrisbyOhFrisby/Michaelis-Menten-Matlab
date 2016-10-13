@@ -1,5 +1,2 @@
-# hello-world
-First Repository
-Practice
-Makes
-Perfect
+#Michaelis-Menten-Matlab
+Repository for Enzyme Kinetics
